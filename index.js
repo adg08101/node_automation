@@ -15,12 +15,9 @@ app.get('/', function (req, res) {
 });
 
 setTimeout(function () {
-	app.listen(port, function () {
+	// app.listen(port, function () {
 		console.log(`Server running in http://localhost:${port}`);
 		console.log('Defined routes:');
-		console.log('	[GET] http://localhost:3525/');
-
-
-
-	});
+		console.log('[GET] http://localhost:3525/');
+	// });
 }, 3000)
