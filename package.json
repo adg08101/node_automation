@@ -1,0 +1,24 @@
+{
+  "name": "node_automation",
+  "version": "1.0.0",
+  "description": "node automation robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adg08101/node_automation.git"
+  },
+  "keywords": [
+    "node",
+    "automation",
+    "robot"
+  ],
+  "author": "ahmed davila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adg08101/node_automation/issues"
+  },
+  "homepage": "https://github.com/adg08101/node_automation#readme"
+}
