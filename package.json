@@ -1,7 +1,7 @@
 {
-  "name": "node_automation_robot_interaction",
+  "name": "node_docker_example",
   "version": "1.0.0",
-  "description": "node automation robot",
+  "description": "node_docker_example",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -12,8 +12,9 @@
   },
   "keywords": [
     "node",
-    "automation",
-    "robot"
+    "docker",
+    "mongoose",
+    "express"
   ],
   "author": "ahmed davila",
   "license": "ISC",
@@ -24,6 +25,7 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.18.2",
+    "mongoose": "^8.1.3",
     "nodemon": "^3.0.3"
   },
   "devDependencies": {
